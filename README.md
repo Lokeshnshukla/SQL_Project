@@ -1,5 +1,3 @@
-# SQL_Project
-
 # ScienceQtech Employee Performance Mapping
 
 ## Problem Scenario
